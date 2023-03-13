@@ -1,0 +1,4 @@
+python 3.9.0
+django 4.1.4
+pip 23.0.1 
+apache2 server  
